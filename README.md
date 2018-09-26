@@ -1,9 +1,9 @@
 FuCKING MY CUSTOMIZED!1!1!
 -
 If you want to using this customized, your a loser.
--
+
 easy way to use.
--
+
 *Check Dependencies*
 -
 1. Modules Bumblebee-status
