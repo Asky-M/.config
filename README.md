@@ -4,12 +4,12 @@ If you want to using this customized, your a loser.
 -
 easy way to use.
 -
-1. Check dependencies
+*Check Dependencies*
 -
-	. Modules Bumblebee-status
-	. Packages
-	. Fonts
-	. Colors
+1. Modules Bumblebee-status
+2. Packages
+3. Fonts
+4. Colors
 
 *AND DON'T FORGET TO SLEEP
 -
