@@ -14,7 +14,7 @@ easy way to use.
 *AND DON'T FORGET TO SLEEP
 -
 i3/Bumblebee-Status
-![alt text](https://github.com/Asky-M/config-dotcats/blob/master/i3_bumblebee.jpg)
+![alt text](https://github.com/Asky-M/.config/blob/master/i3_bumblebee.jpg)
 
 
 
