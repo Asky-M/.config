@@ -1,0 +1,47 @@
+from Archwiki
+
+# for files
+chmod 0444 files
+
+# for directory
+chmod 0555 directory
+
+{ font location
+    % /usr/share/fonts/
+        or
+            % ~/.fonts [ ~/.local/share/fonts ]
+                }
+
+                Bisa pakai 
+                ~/.fonts
+
+                Jangan lupa
+                % fc-cache
+
+                Kalau pakai Arch, bisa install 
+                dari AUR.
+
+                Bisa taruh manual di
+                /usr/share/fonts/TTF
+
+                jangan lupa
+
+                $ mkfontscale
+                $ mkfontdir
+
+                Lalu coba. Kalau gagal, 
+                terkadang perlu logout dahulu.
+
+                Bisa
+
+                font name 
+                awesome
+                powerline
+
+                perintah untuk melihat 
+                konfigurasi font
+                % xfontsel
+
+                source :
+                https://github.com/stark/siji
+                https://github.com/stark/siji/blob/master/pcf/siji.pcf
