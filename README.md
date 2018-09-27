@@ -1,15 +1,15 @@
 FuCKING MY CUSTOMIZED!1!1!
 -
 If you want to using this customized, your a loser.
--
+
 easy way to use.
+
+*Check Dependencies*
 -
-1. Check dependencies
--
-	. Modules Bumblebee-status
-	. Packages
-	. Fonts
-	. Colors
+1. Modules Bumblebee-status
+2. Packages
+3. Fonts
+4. Colors
 
 *AND DON'T FORGET TO SLEEP
 -
