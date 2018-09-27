@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --bg-scale '/home/asky/Pictures/wall/Age_1920x1080.jpg' 
