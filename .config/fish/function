@@ -1,0 +1,8 @@
+alias x='exit'
+funcsave x
+alias c=clear
+funcsave c
+alias mati=poweroff "kita udahan dulu ya. si manis udah pegel"
+funcsave mati
+alias clbk=reboot  
+funcsave clbk
